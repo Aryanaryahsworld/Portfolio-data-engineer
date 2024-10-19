@@ -1222,4 +1222,114 @@ form .button-area {
 #scroll-top.active {
   top: calc(100% - 12rem);
 }
+
+
+/* certification section starts */
+.certifications {
+  background: #e5ecfb; /* Use the same background as education for consistency */
+  min-height: 80vh; /* Same minimum height as education */
+}
+
+.certifications .quote {
+  font-size: 1.5rem;
+  text-align: center;
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+  margin-top: 0.5rem;
+}
+
+.certifications .box-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.certifications .box-container .box {
+  display: flex;
+  flex-direction: row;
+  width: 80%; /* Same width as education */
+  border-radius: 0.5rem;
+  box-shadow: 0.2rem 0.5rem 1rem rgba(0, 0, 0, 0.2);
+  text-align: center;
+  position: relative;
+  margin-top: 2rem;
+  overflow: hidden;
+  transition: 0.3s;
+  background: rgb(252, 252, 252);
+}
+
+.certifications .box-container .box:hover {
+  transform: scale(1.03);
+  box-shadow: 1rem 0.5rem 1.2rem rgba(0, 0, 0, 0.3);
+}
+
+.certifications .box-container .box .content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  flex-wrap: wrap;
+  flex: 1 1 70rem;
+}
+
+.certifications .box-container .box .content h3 {
+  font-size: 2.5rem;
+  color: #012970;
+  padding: 0.5rem 0;
+  font-weight: 600;
+  text-align: left;
+  margin-left: 1rem;
+}
+
+.certifications .box-container .box .content p {
+  font-size: 1.5rem;
+  margin-left: 1rem;
+  text-align: left;
+}
+
+.certifications h4 {
+  font-size: 2rem;
+  color: rgb(34, 109, 0);
+  text-align: left;
+  margin: 1rem;
+  font-family: "Nunito", sans-serif;
+  font-weight: 700;
+}
+
+.certifications .box-container .box a {
+  display: inline-block; /* Makes the link look like a button */
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #012970; /* Dark blue background for button */
+  color: #ffffff; /* White text color */
+  border-radius: 0.5rem;
+  text-decoration: none; /* Removes underline */
+  transition: background-color 0.3s; /* Transition for hover effect */
+}
+
+.certifications .box-container .box a:hover {
+  background-color: #0c3d75; /* Darker shade for hover effect */
+}
+
+/* certification media queries starts */
+@media screen and (max-width: 600px) {
+  .certifications .box-container .box {
+    flex-direction: column;
+    width: 100%; /* Make the box full width on small screens */
+  }
+  .certifications .box-container .box .content {
+    padding: 1rem;
+    flex: 0; /* Adjust flex for content in smaller screens */
+  }
+  .certifications .btns {
+    margin-top: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    flex-wrap: wrap;
+  }
+}
+/* certification section ends */
+
 /* scroll top ends */
