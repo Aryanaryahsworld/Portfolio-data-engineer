@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Tours Management",
+    "desc": "Discover and book amazing tours with ToursManagement: your go-to platform for unforgettable travel experiences and seamless bookings.",
+    "image": "tours",
+    "category": "collaboration",
+    "links": {
+      "view": "https://aryan-tours.netlify.app",
+      "code": "https://github.com/Aryanaryahsworld/TourManagement"
+    }
+  },
+  {
+    "name": "Budgety",
+    "desc": "Budgety web app is a utility single page web app that helps you calculate and visualize your budget.",
+    "image": "Budgety",
+    "category": "programming-languages",
+    "links": {
+      "view": "https://aryanbudgety.netlify.app",
+      "code": "https://github.com/Aryanaryahsworld/Budgety"
+    }
+  },
+  {
+    "name": "Brain x Tumor",
+    "desc": "Streamlit app allowing you to upload an MRI image and predict if there's a brain tumor or not using a trained Keras model.",
+    "image": "brainxtumor",
+    "category": "data-engineering-tools",
+    "links": {
+      "view": "",
+      "code": "https://github.com/coderx0319/Brain_Tumor_Prediction"
+    }
+  },
+  {
+    "name": "Disease-Prediction-Online",
+    "desc": "This app will analyze your disease symptoms and predict using Machine Learning on the web.",
+    "image": "diesespridiction",
+    "category": "cloud-platforms",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Aryanaryahsworld/Health"
+    }
+  }
+]

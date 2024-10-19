@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/color/48/000000/sql.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+ 
+    {
+        "name": "Apache Spark",
+        "icon": "https://img.icons8.com/color/48/000000/apache-spark.png"
+    },
+    {
+        "name": "Hadoop",
+        "icon": "https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"
+    },
+  
+    
+  
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Microsoft Azure",
+        "icon": "https://img.icons8.com/color/48/000000/azure-1.png"
+    },
+    {
+        "name": "Google Cloud Platform",
+        "icon": "https://img.icons8.com/color/48/000000/google-cloud-platform.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+   
+    {
+        "name": "Snowflake",
+        "icon": "https://img.icons8.com/color/48/000000/snowflake.png"
+    },
+    {
+        "name": "Oracle",
+        "icon": "https://img.icons8.com/color/48/000000/oracle-logo.png"
+    },
+    {
+        "name": "Teradata",
+        "icon": "https://img.icons8.com/color/48/000000/teradata.png"
+    },
+  
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/000000/docker.png"
+    },
+    {
+        "name": "Kubernetes",
+        "icon": "https://img.icons8.com/color/48/000000/kubernetes.png"
+    },
+    {
+        "name": "Jenkins",
+        "icon": "https://img.icons8.com/color/48/000000/jenkins.png"
+    },
+    {
+        "name": "Terraform",
+        "icon": "https://img.icons8.com/color/48/000000/terraform.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "GitLab",
+        "icon": "https://img.icons8.com/color/48/000000/gitlab.png"
+    },
+    {
+        "name": "JIRA",
+        "icon": "https://img.icons8.com/color/48/000000/jira.png"
+    },
+    {
+        "name": "Confluence",
+        "icon": "https://img.icons8.com/color/48/000000/confluence.png"
+    },
+    {
+        "name": "Trello",
+        "icon": "https://img.icons8.com/color/48/000000/trello.png"
+    },
+    {
+        "name": "Slack",
+        "icon": "https://img.icons8.com/color/48/000000/slack-new.png"
+    },
+    {
+        "name": "Scala",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg"
+    },
+    {
+        "name": "R",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
+    },
+    {
+        "name": "Kafka",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"
+    },
+
+    {
+        "name": "Cassandra",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg"
+    }
+
+
+]
