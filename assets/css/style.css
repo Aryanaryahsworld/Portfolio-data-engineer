@@ -1298,16 +1298,17 @@ form .button-area {
   font-weight: 700;
 }
 
+/*
 .certifications .box-container .box a {
   display: inline-block; /* Makes the link look like a button */
-  margin-top: 1rem;
+  /*margin-top: 1rem;
   padding: 0.5rem 1rem;
   background-color: #012970; /* Dark blue background for button */
-  color: #ffffff; /* White text color */
-  border-radius: 0.5rem;
+ /* color: #ffffff; /* White text color */
+ /* border-radius: 0.5rem;
   text-decoration: none; /* Removes underline */
-  transition: background-color 0.3s; /* Transition for hover effect */
-}
+/*  transition: background-color 0.3s; /* Transition for hover effect */
+/*}   */
 
 .certifications .box-container .box a:hover {
   background-color: #0c3d75; /* Darker shade for hover effect */
@@ -1330,6 +1331,63 @@ form .button-area {
     flex-wrap: wrap;
   }
 }
+
+
+.certifications .box-container .box a {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 1rem 2rem; /* Increased padding to make the button bigger */
+  background-color: #012970;
+  color: #ffffff;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  transition: background-color 0.3s;
+  font-size: 1.2rem; /* Adjusted font size */
+}
+
+/* Responsive button sizing */
+@media screen and (max-width: 300px) {
+  .certifications .box-container .box a {
+    padding: 0.8rem 1.6rem; /* Smaller padding for very small screens */
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .certifications .box-container .box a {
+    padding: 0.9rem 1.8rem; /* Slightly bigger padding */
+    font-size: 1.1rem;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .certifications .box-container .box a {
+    padding: 1rem 2rem; /* Maintain default size */
+    font-size: 1.2rem;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .certifications .box-container .box a {
+    padding: 1.1rem 2.2rem; /* Slightly larger for wider screens */
+    font-size: 1.3rem;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .certifications .box-container .box a {
+    padding: 1.2rem 2.4rem; /* Bigger padding for large screens */
+    font-size: 1.4rem;
+  }
+}
+
+@media screen and (max-width: 1440px) {
+  .certifications .box-container .box a {
+    padding: 1.3rem 2.6rem; /* Largest padding for very large screens */
+    font-size: 1.5rem;
+  }
+}
+
 /* certification section ends */
 
 /* scroll top ends */
