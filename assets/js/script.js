@@ -249,3 +249,7 @@ srtop.reveal('.experience .timeline .container', { interval: 400 });
 /* SCROLL CONTACT */
 srtop.reveal('.contact .container', { delay: 400 });
 srtop.reveal('.contact .container .form-group', { delay: 400 });
+
+/* SCROLL CERTIFICATIONS */
+srtop.reveal('.certifications .box', { interval: 200, delay: 200, origin: 'bottom', distance: '50px', duration: 800, easing: 'ease-in-out' });
+
