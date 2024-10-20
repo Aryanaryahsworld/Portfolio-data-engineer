@@ -3,7 +3,8 @@ Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
 <a href="https://portfolio-aryan5.netlify.app/" target="_blank">Visit Now 🚀</a>
 
-![image](https://github.com/user-attachments/assets/1e0ac4f1-bbd1-483a-ba03-2d1063d67af9)
+![image](https://github.com/user-attachments/assets/98366fff-f0e2-4e9c-ade9-8b928023c8cb)
+
 
 
 ### Extras : 
